@@ -1,0 +1,5 @@
+{
+  "name": "Space Station Assembly Simulator",
+  "description": "A realistic 3D simulation of a space station docking and assembly process in six stages.",
+  "requestFramePermissions": []
+}
